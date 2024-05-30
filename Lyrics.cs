@@ -30,3 +30,4 @@ class Program {
         Console.WriteLine("I'll tell you how I became the prince of a town called Bel-Air");
     }
 }
+// 2024/05/25_SenShoikot_Exercise 1.2
